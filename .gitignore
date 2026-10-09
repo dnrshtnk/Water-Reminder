@@ -1,0 +1,4 @@
+dist/Water.Tests.exe
+dist/test-settings/
+*.pdb
+dist/BuildIcon.exe
